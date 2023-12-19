@@ -5,11 +5,11 @@ Feeding Two Birds with a Smarter Scone: Adaptive Energy Margin for Enhanced OOD 
 # Preliminaries
 This is tested under Ubuntu Linux 20.04 and Python 3.8 environment, and requries some packages to be installed:
 
-PyTorch
-torchvision
-numpy
-sklearn
-wandb
+PyTorch  
+torchvision  
+numpy  
+sklearn  
+wandb  
 
 Dataset Preparation
 Download the data in the folder
