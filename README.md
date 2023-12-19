@@ -21,13 +21,13 @@ The corrupted CIFAR-10 dataset can be downloaded via the link:
 wget https://drive.google.com/drive/u/0/folders/1JcI8UMBpdMffzCe-dqrzXA9bSaEGItzo
 
 # Pretrained models
-You can find the pretrained models in:
-./snapshots/save/cifar10/svhn/scone/
-one good example is:
+You can find the pretrained models in:  
+./snapshots/save/cifar10/svhn/scone/  
+one good example is:  
 ./snapshots/save/cifar10/svhn/scone/steps/scone_0.0_1_0.05_1_1_1.5_0.5_0.1_epoch_90.pt
 
 # Demo
-To run the code, execute
-bash run.sh scone cifar10 svhn svhn
+To run the code, execute  
+bash run.sh scone cifar10 svhn svhn  
 you can use "--eta" to try different initial eta values
 
